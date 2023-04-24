@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sourav3908.github.io/csb-wy6ldq/static/css/main.7393a2a9.css",
+    "main.js": "https://sourav3908.github.io/csb-wy6ldq/static/js/main.c48317b2.js",
+    "static/media/travel3.jpg": "https://sourav3908.github.io/csb-wy6ldq/static/media/travel3.836c1bfb4e071b7fe895.jpg",
+    "static/media/similipal.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/similipal.5d2540ee063d1a9573f9.avif",
+    "static/media/hirakud.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/hirakud.0b439db805a3530688f0.avif",
+    "static/media/konark.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/konark.a6e68946f525b6723ebb.avif",
+    "static/media/daringbadi.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/daringbadi.c25285ce221ecf57f534.avif",
+    "static/media/chilika.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/chilika.c2b6c959cd74a5a6708f.avif",
+    "static/media/puri.avif": "https://sourav3908.github.io/csb-wy6ldq/static/media/puri.8b01949265e07891f96c.avif",
+    "index.html": "https://sourav3908.github.io/csb-wy6ldq/index.html",
+    "main.7393a2a9.css.map": "https://sourav3908.github.io/csb-wy6ldq/static/css/main.7393a2a9.css.map",
+    "main.c48317b2.js.map": "https://sourav3908.github.io/csb-wy6ldq/static/js/main.c48317b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7393a2a9.css",
+    "static/js/main.c48317b2.js"
+  ]
+}
